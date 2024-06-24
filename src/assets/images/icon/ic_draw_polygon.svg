@@ -1,0 +1,11 @@
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="left_ic_kongjianjiansuo">
+<path id="Polygon 3" d="M6.71395 12.9828L16 6.23607L25.286 12.9828L21.7391 23.8992H10.2609L6.71395 12.9828Z" stroke="url(#paint0_linear_479_30666)" stroke-width="2"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear_479_30666" x1="5.92598" y1="5.69876" x2="26.5508" y2="22.2624" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#EEF5F9"/>
+  <stop offset="1" stop-color="#B7C3CA"/>
+</linearGradient>
+</defs>
+</svg>

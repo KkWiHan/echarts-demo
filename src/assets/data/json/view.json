@@ -1,0 +1,58 @@
+{
+  "江苏省": {
+    "center": [10, 0, 0],
+    "distance": 140
+  },
+  "南京市": {
+    "center": [0, -20, 0],
+    "distance": 230
+  },
+  "镇江市": {
+    "center": [0, 0, 0],
+    "distance": 120
+  },
+  "常州市": {
+    "center": [0, -5, 0],
+    "distance": 120
+  },
+  "无锡市": {
+    "center": [0, 0, 0],
+    "distance": 120
+  },
+  "苏州市": {
+    "center": [0, 0, 0],
+    "distance": 120
+  },
+  "扬州市": {
+    "center": [0, -15, 0],
+    "distance": 200
+  },
+  "南通市": {
+    "center": [10, 0, 0],
+    "distance": 120
+  },
+  "泰州市": {
+    "center": [0, -15, 0],
+    "distance": 200
+  },
+  "淮安市": {
+    "center": [0, -10, 0],
+    "distance": 150
+  },
+  "盐城市": {
+    "center": [0, -15, 0],
+    "distance": 180
+  },
+  "连云港市": {
+    "center": [0, 0, 0],
+    "distance": 120
+  },
+  "宿迁市": {
+    "center": [-10, -10, 0],
+    "distance": 150
+  },
+  "徐州市": {
+    "center": [0, 0, 0],
+    "distance": 120
+  }
+}

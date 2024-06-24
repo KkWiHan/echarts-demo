@@ -1,0 +1,455 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "SmUserID": 0,
+        "OBJECTID": 1,
+        "MC": "方家营"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.74174585300011,
+          32.10639667400005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SmUserID": 0,
+        "OBJECTID": 2,
+        "MC": "南京西站"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.7361912990001,
+          32.09959290300003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SmUserID": 0,
+        "OBJECTID": 3,
+        "MC": "静海寺"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.73238416100003,
+          32.09578576500007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SmUserID": 0,
+        "OBJECTID": 4,
+        "MC": "下关"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.73673892700004,
+          32.08985286600006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SmUserID": 0,
+        "OBJECTID": 5,
+        "MC": "盐仓桥"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.74731510900006,
+          32.08845050000008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SmUserID": 0,
+        "OBJECTID": 6,
+        "MC": "福建路"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.7535836720001,
+          32.083375389000028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SmUserID": 0,
+        "OBJECTID": 7,
+        "MC": "虹桥"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.75942473100008,
+          32.07783299500005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SmUserID": 0,
+        "OBJECTID": 8,
+        "MC": "青春广场"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.76659548200007,
+          32.07141714900007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SmUserID": 0,
+        "OBJECTID": 9,
+        "MC": "云南路"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.76884158900009,
+          32.061414298000048
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SmUserID": 0,
+        "OBJECTID": 10,
+        "MC": "五台山"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.77109945200005,
+          32.05284538700005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SmUserID": 0,
+        "OBJECTID": 11,
+        "MC": "上海路"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.77078088700012,
+          32.04451139300005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SmUserID": 0,
+        "OBJECTID": 12,
+        "MC": "朝天宫"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.76859848600009,
+          32.035545812000069
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SmUserID": 0,
+        "OBJECTID": 13,
+        "MC": "三山街"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.77638525600003,
+          32.02603463500003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SmUserID": 0,
+        "OBJECTID": 14,
+        "MC": "夫子庙"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.78531327500002,
+          32.02516610200007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SmUserID": 0,
+        "OBJECTID": 15,
+        "MC": "通济门"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.79870427300011,
+          32.027579281000047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SmUserID": 0,
+        "OBJECTID": 16,
+        "MC": "光华门"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.80991988500012,
+          32.02513662000007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SmUserID": 0,
+        "OBJECTID": 17,
+        "MC": "石门坎"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.82029966900007,
+          32.01840223100004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SmUserID": 0,
+        "OBJECTID": 18,
+        "MC": "七桥瓮"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.8195581760001,
+          32.009597248000037
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SmUserID": 0,
+        "OBJECTID": 19,
+        "MC": "大校场"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.81598911000003,
+          31.998950303000073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SmUserID": 0,
+        "OBJECTID": 20,
+        "MC": "神机营"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.81993778500009,
+          31.990215902000047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SmUserID": 0,
+        "OBJECTID": 21,
+        "MC": "东山香樟园"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.8340670770001,
+          31.972417713000028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SmUserID": 0,
+        "OBJECTID": 22,
+        "MC": "文靖路"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.83596330900002,
+          31.960267275000036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SmUserID": 0,
+        "OBJECTID": 23,
+        "MC": "东山"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.83838895800011,
+          31.954403441000069
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SmUserID": 0,
+        "OBJECTID": 24,
+        "MC": "新亭路"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.83990107300008,
+          31.943277065000076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SmUserID": 0,
+        "OBJECTID": 25,
+        "MC": "竹山路"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.84027239600005,
+          31.933508247000078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SmUserID": 0,
+        "OBJECTID": 26,
+        "MC": "科宁路"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.84471782300011,
+          31.92372443800008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SmUserID": 0,
+        "OBJECTID": 27,
+        "MC": "前庄"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.83608101100004,
+          31.911321421000026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SmUserID": 0,
+        "OBJECTID": 28,
+        "MC": "诚信大道"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.82343270700005,
+          31.910880478000025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SmUserID": 0,
+        "OBJECTID": 29,
+        "MC": "九龙湖南"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.80429390400002,
+          31.894593393000038
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SmUserID": 0,
+        "OBJECTID": 30,
+        "MC": "吉印大道"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.79030092400001,
+          31.888135435000039
+        ]
+      }
+    }
+  ]
+}
